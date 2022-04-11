@@ -60,8 +60,10 @@ Similar to Task 4, code was modified accoring to 7.3.1 of [Estimation for Quadro
 
 Gains were retuned to:
 
+```
 kpPosXY = 30 => 4
 KiPosZ = 30 => 21 
 
 kpVelXY = 12 => 8
 kpVelZ = 12 => 8
+```
